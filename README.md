@@ -7,7 +7,7 @@ Python AI course
 ### Authorship & Attribution
 *   **Developer:** Eric Staggs
 *   **Resources:** CodeAcademy, UNA, Youtube, reddit
-*   **Libraries/Assets:** numpy, pandas, matplot, sklearn
+*   **Libraries/Assets:** numpy, pandas, matplot, sklearn, OCR, OpenCV, TensorFlow, pyTorch
 
 > "Precisioin is the art of saying what matters- and nothing more."
 
